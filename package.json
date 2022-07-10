@@ -1,0 +1,40 @@
+{
+  "name": "turkey-pi-ui",
+  "version": "1.0.0",
+  "description": "Simple GUI for Turkey-Pi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scirelli/turkey-pi-ui.git"
+  },
+  "keywords": [
+    "turkey",
+    "pi",
+    "console",
+    "nintendo",
+    "switch",
+    "playstation",
+    "xbox"
+  ],
+  "author": "Steve Cirelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scirelli/turkey-pi-ui/issues"
+  },
+  "homepage": "https://github.com/scirelli/turkey-pi-ui#readme",
+  "engines": {
+    "node": ">=v16.8.0",
+    "npm": ">=8.13.2"
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.18.2",
+    "eslint": "^8.19.0"
+  },
+  "dependencies": {
+    "@webcomponents/custom-elements": "^1.5.0",
+    "debug": "^4.3.4"
+  }
+}
